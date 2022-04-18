@@ -17,6 +17,8 @@
 ![](ScreenShots/CustomerTable.png)
 ![](ScreenShots/InvoiceTable.png)
 
-
+# Website Screenshots
+![](ScreenShots/UnauthorizedView.png)
+![](ScreenShots/AuthorizedView.png)
 
 
