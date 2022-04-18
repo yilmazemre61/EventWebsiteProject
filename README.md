@@ -21,4 +21,8 @@
 ![](ScreenShots/UnauthorizedView.png)
 ![](ScreenShots/AuthorizedView.png)
 
+# Published Project Link
+https://finalproject20220417220106.azurewebsites.net
 
+# Presentation Link
+https://www.youtube.com/watch?v=slmkWEd-J3g
