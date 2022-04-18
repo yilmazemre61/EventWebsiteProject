@@ -9,4 +9,14 @@
 # Database Screenshots
 ![](ScreenShots/MainViewTables.png)
 
+# Tables with Values
+
+![](ScreenShots/CompanyTable.png)
+![](ScreenShots/OrganizerTable.png)
+![](ScreenShots/EventTable.png)
+![](ScreenShots/CustomerTable.png)
+![](ScreenShots/InvoiceTable.png)
+
+
+
 
